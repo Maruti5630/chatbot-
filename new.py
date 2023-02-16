@@ -1,5 +1,5 @@
 from tkinter import *
-from xyz import response
+# from xyz import response
 
 
 # chat msg
